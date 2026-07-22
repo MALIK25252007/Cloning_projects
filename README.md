@@ -1,4 +1,4 @@
-# My Web Projects Portfolio
+# My Web Projects Collection
 
 A collection of web projects showcasing HTML, CSS skills through clones and custom builds.
 
